@@ -22,12 +22,12 @@ excel管理接口，实现接口依赖，测试结果回写，测试结果统计
 -------
 整体结构
 ###
-![](https://github.com/hanyguoguo/interfacePython/image/tree.png)
+![](https://github.com/hanyguoguo/interfacePython/blob/master/image/tree.png)
 
 接口测试用例
 ###
-![](https://github.com/hanyguoguo/interfacePython/image/case.png)
+![](https://github.com/hanyguoguo/interfacePython/blob/master/image/case.png)
 
 邮件效果
 ###
-![](https://github.com/hanyguoguo/interfacePython/image/email.png)
+![](https://github.com/hanyguoguo/interfacePython/blob/master/image/email.png)
