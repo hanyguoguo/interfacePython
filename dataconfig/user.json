@@ -1,0 +1,53 @@
+{
+"allRecord":{"sysUserId":"8aad14dd5fbfe01a015fbfe63e40000e","pageStart":"1","pageNum":"5"},
+"updatePatient":{"sysUserId":"8aad14dd5fbfe01a015fbfe63e40000e","patientId":"2c92e0e6648eaa3e01649247d9e700c4","marriage":"","fertility":"","patientSex":"女","patientName":"小鱼ll鱼","patientBir":"2010-01-01","relation":"我自己","height":"","peMedical":"","peAllergy":"","familyHis":"","medicalHis":"","medicalTag":"","allergyTag":"","familyHisTag":"","medicalHisTag":""},
+"addPatient":{"sysUserId":"8aad14dd5fbfe01a015fbfe63e40000e","patientId":"","marriage":"","fertility":"","patientSex":"男","patientName":"looveove","patientBir":"2010-01-01","relation":"","height":"","peMedical":"","peAllergy":"","familyHis":"","medicalHis":"","medicalTag":"","allergyTag":"","familyHisTag":"","medicalHisTag":""},
+"clinicInfo":{"sysUserId":"8aad14dd5fbfe01a015fbfe63e40000e","doctorId":"ff808081633b3be401633dbe0eb01914"},
+"allPatient":{"sysUserId":"8aad14dd5fbfe01a015fbfe63e40000e"},
+"allBespeakRegister": {
+                    "sysUserId": "8aad14dd5fbfe01a015fbfe63e40000e", 
+                    "pageStart": "1", 
+                    "pageNum": "20"
+                },
+"doctorInfo": {
+                    "sysUserId": "8aad14dd5fbfe01a015fbfe63e40000e", 
+                    "besStatus": "1", 
+                    "doctorId": "ff808081633b3be401633dbe0eb01914", 
+                    "source": "2"
+                },
+"findDoctorByDoctorId": {
+                    "sysUserId": "8aad14dd5fbfe01a015fbfe63e40000e", 
+                    "doctorId": "ff808081633b3be401633dbe0eb01914"
+                },
+"firstBes": {
+                    "sysUserId": "8aad14dd5fbfe01a015fbfe63e40000e", 
+                    "doctorId": "ff808081633b3be401633dbe0eb01914"
+                }, 
+"getDoctorInfoByClinicId": {
+                    "besStatus": "1", 
+                    "doctorId": "ff808081633b3be401633dbe0eb01914"
+                },
+"getNearPatient": {
+                    "sysUserId": "8aad14dd5fbfe01a015fbfe63e40000e"
+                },
+"isAttention": {
+                    "sysUserId": "8aad14dd5fbfe01a015fbfe63e40000e"
+                },
+"isRead": {
+                    "sysUserId": "8aad14dd5fbfe01a015fbfe63e40000e"
+                },
+"myClinic": {
+                    "sysUserId": "8aad14dd5fbfe01a015fbfe63e40000e"
+                },
+"praise": {
+                    "sysUserId": "8aad14dd5fbfe01a015fbfe63e40000e", 
+                    "count": "1", 
+                    "clinicId": "ff808081633b3be401633dbb99dd1751"
+                },
+"saveFormId": {
+                    "sysUserId": "8aad14dd5fbfe01a015fbfe63e40000e", 
+                    "formId": "1531476894676"
+                }
+				
+}
+
